@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
+<h1 align="center">Hi , I'm Rohit</h1>
 <h3 align="center">Building things on the web — currently shipping CampusHub-AI</h3>
 
 <p align="center">
