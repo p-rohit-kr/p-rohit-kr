@@ -33,61 +33,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
 </p>
 
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-</p>
 
-**Database & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 📌 Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <h4><a href="https://github.com/[username]/[repo-1]">🔹 [Project Name 1]</a></h4>
-      <p>[One-line description of what it does and the stack used]</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4><a href="https://github.com/[username]/[repo-2]">🔹 [Project Name 2]</a></h4>
-      <p>[One-line description of what it does and the stack used]</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4><a href="https://github.com/[username]/[repo-3]">🔹 [Project Name 3]</a></h4>
-      <p>[One-line description of what it does and the stack used]</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact" alt="Top Languages"/>
-</p>
-
----
 
 <p align="center"><i>Thanks for stopping by — let's build something great together! 🚀</i></p>
