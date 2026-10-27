@@ -15,11 +15,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **[current project]**
-- 🌱 Currently learning **[technology you're learning]**
-- 💬 Ask me about **React, Node.js, REST/GraphQL APIs, SQL & NoSQL databases**
-- 📫 Reach me at **[your-email]@example.com**
-- ⚡ Fun fact: **[something fun about you]**
+- 🔭 Currently working on **CampusHub project**
+- 🌱 Currently learning **Gen AI **
+- 💬 Ask me about **React, Node.js, REST APIs, SQL & NoSQL databases**
+- 📫 Reach me at **p.rohit.kr.singh@gmail.com**
+
 
 ---
 
